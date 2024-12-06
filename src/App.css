@@ -1,0 +1,11 @@
+.card_container{
+  margin-top: 10%;
+}
+.card-title{
+  font-size: 2rem;
+  font-weight: 700;
+}
+.btn_control button {
+  margin:  10px;
+
+}
